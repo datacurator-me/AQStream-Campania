@@ -1,0 +1,7 @@
+station_id,name,latitude,longitude,region
+S1,Napoli Centro,40.8362,14.2490,Napoli
+S2,San Giovanni,40.8201,14.2604,Napoli
+S3,Nola,40.9284,14.5324,Provincia di Napoli
+S4,Salerno Sud,40.6737,14.7642,Salerno
+S5,Caserta Nord,41.0771,14.3299,Caserta
+S6,Avellino,40.9143,14.7881,Avellino

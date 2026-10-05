@@ -1,0 +1,14 @@
+pandas
+numpy
+geopandas
+shapely
+libpysal
+esda
+river
+scikit-learn
+streamlit
+plotly
+folium
+pydeck
+pytest
+jupyter
